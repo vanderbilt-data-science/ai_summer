@@ -23,15 +23,23 @@ To get the most out of this crash course in Python:
 * Let us know how you are doing using Fastcups at https://cups.fast.ai/vanderbilt-ai-summer!
 
 ## Workshop Schedule
-Date	Topics
+
 Mon, May 16	Introduction to Transformers, architecture, Huggingface models, datasets, spaces
+
 Wed, May 18	Text applications / inferencing pipeline / sharing your work interactively with Gradio
+
 Fri, May 20	Training for text / pushing to hub / custom Gradio
+
 Mon, May 23	Audio models
+
 Wed, May 25	Audio models / Image models
+
 Fri, May 27	Image models
+
 Mon, May 30	Custom models from scratch/special tokens/domain adaptation
+
 Wed, Jun 1	Custom models from scratch/Perceiver IO
+
 Fri, Jun 3	Research Presentation / Whirlwind tour of what's new / Next Steps
 
 ## Breakout Rooms
