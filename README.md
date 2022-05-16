@@ -45,7 +45,7 @@ Fri, Jun 3	Research Presentation / Whirlwind tour of what's new / Next Steps
 ## Breakout Rooms
 During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
 
-https://docs.google.com/document/d/12csRB2CAD8jXZQdK5eLz8p52g9KfdoLFo2qRFTFCRDI/edit?usp=sharing
+https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing
 
 ## Using Fastcups
 During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click on the green, yellow, or red cup to indicate how you are doing! 
