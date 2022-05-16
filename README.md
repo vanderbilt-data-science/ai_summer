@@ -22,6 +22,14 @@ To get the most out of this crash course in Python:
 * Relax your mind and ask questions
 * Let us know how you are doing using Fastcups at https://cups.fast.ai/vanderbilt-ai-summer!
 
+## Pre-Workshop Preparation
+
+- Sign up for a Google Collaboratory account. The free account should be sufficient, but you will get more compute (and longer running times) if you sign up for Colab Pro at ~$5/month.
+- Sign up for a Hugginface.co account. Again, the free account should be sufficient.
+- Suggested: Preview the book Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra and Thomas Wolf. If you are affiliated with Vanderbilt University, you can access this pre-print book (and any book by O’Reilly) free by logging into O'Reilly Media using your Vanderbilt email address. Vanderbilt licenses all content from O’Reilly. The book covers Transformers for purposes beyond text. 
+- Think about any data you might want to bring to the workshop. Also begin thinking about any projects you might want to accomplish during our month. We’ll have office hours for you to work with us to get your first project off the ground!
+
+
 ## Workshop Schedule
 
 Mon, May 16	Introduction to Transformers, architecture, Huggingface models, datasets, spaces
@@ -71,4 +79,9 @@ A number of examples will be left to the reader.  Please complete these assignme
 - [Introduction to Python (Datacamp Youtube Playlist)](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 - [Introduction to Python (freeCodeCamp.org)](https://www.youtube.com/watch?v=rfscVS0vtbw)
 -  Fastcups https://cups.fast.ai/vanderbilt-ai-summer (to be used synchronously during class)
+
+### Transformers
+-  Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra and Thomas Wolf. If you are affiliated with Vanderbilt University, you can access this pre-print book (and any book by O’Reilly) free by logging into O'Reilly Media using your Vanderbilt email address. Vanderbilt licenses all content from O’Reilly. The book covers Transformers for purposes beyond text. 
+
+
 
