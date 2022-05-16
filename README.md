@@ -1,10 +1,7 @@
-# ai_summer
-Summary repository for AI Summer 2022
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/p4ai-essentials)
 
 # AI Summer
-> Introduction to Transformer models, with practical applications to inferencing and training
+> Summary repository for AI Summer 2022. Introduction to Transformer models, with practical applications to inferencing and training
 
 Presented by Vanderbilt Data Science Institute data scientists:
 * Dr. Jesse Spencer-Smith, Chief Data Scientist
@@ -26,7 +23,16 @@ To get the most out of this crash course in Python:
 * Let us know how you are doing using Fastcups at https://cups.fast.ai/vanderbilt-ai-summer!
 
 ## Workshop Schedule
-
+Date	Topics
+Mon, May 16	Introduction to Transformers, architecture, Huggingface models, datasets, spaces
+Wed, May 18	Text applications / inferencing pipeline / sharing your work interactively with Gradio
+Fri, May 20	Training for text / pushing to hub / custom Gradio
+Mon, May 23	Audio models
+Wed, May 25	Audio models / Image models
+Fri, May 27	Image models
+Mon, May 30	Custom models from scratch/special tokens/domain adaptation
+Wed, Jun 1	Custom models from scratch/Perceiver IO
+Fri, Jun 3	Research Presentation / Whirlwind tour of what's new / Next Steps
 
 ## Breakout Rooms
 During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
@@ -42,7 +48,8 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 Video recordings of these workshops can be found at the links below:
 
 - Monday, May 16: 
-- 
+
+
 ## Asynchronous (Homework) Assignments
 A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next day of the course.  These homework assignments are designed to augment your understanding of Python, enable you to avoid common pitfalls of programming, resolve known areas of ambiguity that often arise in our new learners, and navigate and understand common errors that Python will throw.
 
