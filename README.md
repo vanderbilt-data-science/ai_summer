@@ -64,6 +64,7 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 Video recordings of these workshops can be found at the links below:
 
 - Monday, May 16: https://vanderbilt.zoom.us/rec/share/i06HPNJBGU4qvCUvsxGgouubLD8ydFY3Tax4oxB6BaildJlsrTfjkDvdQs0sDI6F.2zkoTRMEVMQxk72v?startTime=1652708325000
+- Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/2AOKS3IoCNPknPUByFlY1zTzGBIuS3hjicdijSKHHe5r5lWfu7JdHLAQ1rsZk-g.RDv8DtCin05slKIt?startTime=1652795162000
 
 
 ## Asynchronous (Homework) Assignments
