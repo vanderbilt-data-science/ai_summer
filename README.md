@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/p4ai-essentials)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/ai_summer)
 
 # AI Summer
 > Summary repository for AI Summer 2022. Introduction to Transformer models, with practical applications to inferencing and training
@@ -63,9 +63,12 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 
+### AI with Transformers
 - Monday, May 16: https://vanderbilt.zoom.us/rec/share/i06HPNJBGU4qvCUvsxGgouubLD8ydFY3Tax4oxB6BaildJlsrTfjkDvdQs0sDI6F.2zkoTRMEVMQxk72v?startTime=1652708325000
 - Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/2AOKS3IoCNPknPUByFlY1zTzGBIuS3hjicdijSKHHe5r5lWfu7JdHLAQ1rsZk-g.RDv8DtCin05slKIt?startTime=1652795162000
 
+### Python for AI Resources
+- Vanderbilt AI Summer Python Intro: [Python Essentials for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
 
 ## Asynchronous (Homework) Assignments
 A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next day of the course.  These homework assignments are designed to augment your understanding of Python, enable you to avoid common pitfalls of programming, resolve known areas of ambiguity that often arise in our new learners, and navigate and understand common errors that Python will throw.
@@ -73,7 +76,7 @@ A number of examples will be left to the reader.  Please complete these assignme
 ## Other Resources
 
 ### Python
-- [Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
+- [VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
 - [A Whirlwind Tour of Python, Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook, Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Programming with Python, Software Carpentries](https://swcarpentry.github.io/python-novice-inflammation/)  
