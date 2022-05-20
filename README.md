@@ -36,7 +36,7 @@ Mon, May 16	Introduction to Transformers, architecture, Huggingface models, data
 
 Wed, May 18	Text applications / inferencing pipeline / sharing your work interactively with Gradio
 
-Fri, May 20	Training for text / pushing to hub / custom Gradio
+Fri, May 20	Training for text / pushing to hub / custom Gradio - see https://github.com/vanderbilt-data-science/ai-summer-gradio
 
 Mon, May 23	Audio models
 
