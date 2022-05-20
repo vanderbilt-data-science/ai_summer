@@ -65,8 +65,7 @@ Video recordings of these workshops can be found at the links below:
 
 ### AI with Transformers
 - Monday, May 16: https://vanderbilt.zoom.us/rec/share/i06HPNJBGU4qvCUvsxGgouubLD8ydFY3Tax4oxB6BaildJlsrTfjkDvdQs0sDI6F.2zkoTRMEVMQxk72v?startTime=1652708325000
-- Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/2AOKS3IoCNPknPUByFlY1zTzGBIuS3hjicdijSKHHe5r5lWfu7JdHLAQ1rsZk-g.RDv8DtCin05slKIt?startTime=1652795162000
-
+- Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/jGKukco6K64DzUVkiUXjANDJSeWdEhd3dMHlO5CPKw9kVHvOR51Z4uMiWzQP_FkS.Ci5h98qmKVg1zoFa?startTime=1652882017000 (note, the title of the recording is incorrect, but it is indeed the recording of our Wednesday class!)
 ### Python for AI Resources
 - Vanderbilt AI Summer Python Intro: [Python Essentials for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
 
