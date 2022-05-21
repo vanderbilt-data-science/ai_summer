@@ -64,8 +64,12 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 Video recordings of these workshops can be found at the links below:
 
 ### AI with Transformers
+Note: Titles of the records may say "Office Hours," but they are of the course.
+
 - Monday, May 16: https://vanderbilt.zoom.us/rec/share/i06HPNJBGU4qvCUvsxGgouubLD8ydFY3Tax4oxB6BaildJlsrTfjkDvdQs0sDI6F.2zkoTRMEVMQxk72v?startTime=1652708325000
 - Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/jGKukco6K64DzUVkiUXjANDJSeWdEhd3dMHlO5CPKw9kVHvOR51Z4uMiWzQP_FkS.Ci5h98qmKVg1zoFa?startTime=1652882017000 (note, the title of the recording is incorrect, but it is indeed the recording of our Wednesday class!)
+- Friday, May 20: https://vanderbilt.zoom.us/rec/share/Yxp1ZoEcMZCEZrcfvplpWQy-i09bhZvo6rl8SAgU6_cPMvC8vl4rOzMqtmTDCfcf.EDSXtfU1cNQrKSvc?startTime=1653054808000
+
 ### Python for AI Resources
 - Vanderbilt AI Summer Python Intro: [Python Essentials for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
 
@@ -75,7 +79,7 @@ A number of examples will be left to the reader.  Please complete these assignme
 ## Other Resources
 
 ### Python
-- [VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
+- [VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/): This is the recording for the first week of AI Summer covering the basics of Python for AI frameworks 
 - [A Whirlwind Tour of Python, Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook, Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Programming with Python, Software Carpentries](https://swcarpentry.github.io/python-novice-inflammation/)  
