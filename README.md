@@ -66,9 +66,16 @@ Video recordings of these workshops can be found at the links below:
 ### AI with Transformers
 Note: Titles of the records may say "Office Hours," but they are of the course.
 
+#### Week 1: Python for AI
+[VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/):
+
+#### Week 2: Transformers
 - Monday, May 16: https://vanderbilt.zoom.us/rec/share/i06HPNJBGU4qvCUvsxGgouubLD8ydFY3Tax4oxB6BaildJlsrTfjkDvdQs0sDI6F.2zkoTRMEVMQxk72v?startTime=1652708325000
 - Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/jGKukco6K64DzUVkiUXjANDJSeWdEhd3dMHlO5CPKw9kVHvOR51Z4uMiWzQP_FkS.Ci5h98qmKVg1zoFa?startTime=1652882017000 (note, the title of the recording is incorrect, but it is indeed the recording of our Wednesday class!)
 - Friday, May 20: https://vanderbilt.zoom.us/rec/share/Yxp1ZoEcMZCEZrcfvplpWQy-i09bhZvo6rl8SAgU6_cPMvC8vl4rOzMqtmTDCfcf.EDSXtfU1cNQrKSvc?startTime=1653054808000
+
+#### Week 3: Transformers
+- Monday, May 23: https://vanderbilt.zoom.us/rec/share/9tHGPnVjhtXgD2DxfeZGhhWKbBfGBo0ZUBezEAlO-zv778uywcJQ9MuowBW_2lgZ.eMwfT-B39ulZN73Q?startTime=1653314184000
 
 ### Python for AI Resources
 - Vanderbilt AI Summer Python Intro: [Python Essentials for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
