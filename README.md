@@ -86,6 +86,10 @@ A number of examples will be left to the reader.  Please complete these assignme
 
 ## Other Resources
 
+### Compute Grants for Vanderbilt Faculty and Students
+
+DGX A100 Compute Grant: https://forms.gle/2mGfEy9DB4JU2GpZ8
+
 ### Python
 - [VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/): This is the recording for the first week of AI Summer covering the basics of Python for AI frameworks 
 - [A Whirlwind Tour of Python, Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
