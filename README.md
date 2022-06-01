@@ -78,6 +78,7 @@ Note: Titles of the records may say "Office Hours," but they are of the course.
 - Monday, May 23: https://vanderbilt.zoom.us/rec/share/9tHGPnVjhtXgD2DxfeZGhhWKbBfGBo0ZUBezEAlO-zv778uywcJQ9MuowBW_2lgZ.eMwfT-B39ulZN73Q?startTime=1653314184000
 - Wednesday, May 25: https://vanderbilt.zoom.us/rec/share/08cPU-4E8NZqCEfkyaAIjLMkOjWWo7nUtQUk6xn1RIg9GKqrqIe8EE5E4oj3JDQB.3MljahnyRxiA25wJ?startTime=1653487005000
 - Friday, May 27: https://vanderbilt.zoom.us/rec/share/zxQcyZsEHv2QJx45VCHnV5rVnXjFQrSCLavDWg8B-zwsw7i_v6piWf9UYUiRta1e.dom7PLc8tR7UwE-w?startTime=1653659784000
+- Wednesday, June 1: https://vanderbilt.zoom.us/rec/share/_GFi0dTXKqrNt7j53-sGiqZCp0BriNYk7PXFx7Fd24xbmjHiUvYX6asMBo-5ckgg.tfLA81XoMnXw49sX?startTime=1654091752000
 
 ### Python for AI Resources
 - Vanderbilt AI Summer Python Intro: [Python Essentials for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
