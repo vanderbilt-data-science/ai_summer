@@ -57,7 +57,7 @@ Remember we are all learning and exploring
 ### Report Documents
 Google Docs has a limit of 100 people viewing/editing a document at one time. 
 
-- If your room number is 1 through 10, use Breakout Room Report 1-10. https://docs.google.com/document/d/14wzyXgBRjjCqYriZwDBLfDhLpjYZWlK-FBVrhn4KgWo/edit?usp=sharing
+- If your room number is 1 through 10, use [Breakout Room Report 1-10](https://docs.google.com/document/d/14wzyXgBRjjCqYriZwDBLfDhLpjYZWlK-FBVrhn4KgWo/edit?usp=sharing)
 - If your room number is 11 through 20, use Breakout Room Report 11-20.
 - If your room number is 21 through 30, use Breakout Room Report 21-30.
 - If your room number is 31 through 40, use Breakout Room Report 31-40.
