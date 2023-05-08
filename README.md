@@ -13,23 +13,7 @@ Presented by Vanderbilt Data Science Institute data scientists:
 ## Overview
 The objective of these workshops is to develop foundational skills in understanding, inferencing and training generative AI models and other transformer models.  
 
-### Course Coverage
 
-### Getting the Most out of this Course
-To get the most out of this crash course in Python:
-* Open Colab (workbook) notebooks and actively write code along with the instructor
-* Actively participate in discussion
-* Actively participate in breakout rooms
-* Perform homework assignments before coming to class the next day
-* Relax your mind and ask questions
-* Let us know how you are doing using Fastcups at https://cups.fast.ai/vanderbilt-ai-summer!
-
-## Pre-Workshop Preparation
-
-- Sign up for a Google Collaboratory account. The free account should be sufficient, but you will get more compute (and longer running times) if you sign up for Colab Pro at ~$5/month.
-- Sign up for a Hugginface.co account. Again, the free account should be sufficient.
-- Suggested: Preview the book Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra and Thomas Wolf. If you are affiliated with Vanderbilt University, you can access this pre-print book (and any book by O’Reilly) free by logging into O'Reilly Media using your Vanderbilt email address. Vanderbilt licenses all content from O’Reilly. The book covers Transformers for purposes beyond text. 
-- Think about any data you might want to bring to the workshop. Also begin thinking about any projects you might want to accomplish during our month. We’ll have office hours for you to work with us to get your first project off the ground!
 
 
 ## Workshop Schedule
@@ -73,7 +57,7 @@ Remember we are all learning and exploring
 ### Report Documents
 Google Docs has a limit of 100 people viewing/editing a document at one time. 
 
-- If your room number is 1 through 10, use Breakout Room Report 1-10.
+- If your room number is 1 through 10, use Breakout Room Report 1-10. https://docs.google.com/document/d/14wzyXgBRjjCqYriZwDBLfDhLpjYZWlK-FBVrhn4KgWo/edit?usp=sharing
 - If your room number is 11 through 20, use Breakout Room Report 11-20.
 - If your room number is 21 through 30, use Breakout Room Report 21-30.
 - If your room number is 31 through 40, use Breakout Room Report 31-40.
@@ -81,16 +65,13 @@ Google Docs has a limit of 100 people viewing/editing a document at one time.
 
 ### Special Breakout Room Groups
 
-Please be sure your display name is set in Zoom. If you are in one of the following special groups, please pre-pend your name with one of the following qualifiers. For example, I might be
-- DSSG-Jesse Spencer-Smith
+Please be sure your display name is set in Zoom. If you are in one of the following special groups, please pre-pend your name with one of the following qualifiers. 
 - Data Science for Social Good: DSSG
 - Center for AI in Protein Dynamics: Protein
 - If you are in a lab and would like your own breakout room: Labname (keep it short, please!)
 - If you are faculty and would like to be in a breakout room with other faculty: Faculty
 
-## Using Fastcups
-During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click on the green, yellow, or red cup to indicate how you are doing! 
-![image](https://user-images.githubusercontent.com/5521243/167643293-42f5c9c0-8a8e-4ad7-8aaa-07878ad0b6a3.png)
+For example, I might be *DSSG-Jesse Spencer-Smith*
 
 
 ## Workshop Video Recordings
@@ -110,3 +91,10 @@ DGX A100 Compute Grant: https://forms.gle/2mGfEy9DB4JU2GpZ8
 
 
 
+### Getting the Most out of this Course
+To get the most out of this workshop:
+* Open Colab (workbook) notebooks and actively write code along with the instructor
+* Actively participate in discussions
+* Actively participate in breakout rooms
+* Work on homework assignments before coming to class
+* Relax your mind and ask questions
