@@ -77,6 +77,12 @@ For example, I might be *DSSG-Jesse Spencer-Smith*
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 
+## Course Resources
+
+- Prompt Engineering paper https://arxiv.org/abs/2302.11382
+
+
+
 
 ## Other Resources
 
