@@ -1,15 +1,17 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/ai_summer)
 
 # AI Summer
-> Summary repository for AI Summer 2022. Introduction to Transformer models, with practical applications to inferencing and training
+> Summary repository for AI Summer 2023. Introduction to generative AI, with practical applications to inferencing and training
 
 Presented by Vanderbilt Data Science Institute data scientists:
 * Dr. Jesse Spencer-Smith, Chief Data Scientist
 * Dr. Charreau Bell, Senior Data Scientist
+* Myranda Shirk, Senior Data Scientist
 * Umang Chaudhry, Data Scientist
+* Dr. Abigail Petulante, DSI Postdoctoral Fellow
 
 ## Overview
-The objective of these workshops is to develop foundational skills in understanding, inferencing and training Transformer models primarily using HuggingFace, an extremely user-friendly API for transformers.  
+The objective of these workshops is to develop foundational skills in understanding, inferencing and training generative AI models and other transformer models.  
 
 ### Course Coverage
 
@@ -32,28 +34,59 @@ To get the most out of this crash course in Python:
 
 ## Workshop Schedule
 
-Mon, May 16	Introduction to Transformers, architecture, Huggingface models, datasets, spaces
+### Week 1 Introduction to Transformer Models, Generative AI, and Prompt Engineering
 
-Wed, May 18	Text applications / inferencing pipeline / sharing your work interactively with Gradio
+5/8-5/10 (No meeting Friday for Vanderbilt graduation)
 
-Fri, May 20	Training for text / pushing to hub / custom Gradio - see https://github.com/vanderbilt-data-science/ai-summer-gradio
+Monday, Wednesday
 
-Mon, May 23	Audio models
+9am-11am; Office Hour 11am-12pm CDT
 
-Wed, May 25	Audio models / Image models
+### Weeks 2 AI-Assisted Programming for AI (yes, very meta)
 
-Fri, May 27	Image models
+5/15-5/19
 
-Mon, May 30	Custom models from scratch/special tokens/domain adaptation
+Monday, Wednesday, Friday
 
-Wed, Jun 1	Custom models from scratch/Perceiver IO
+9am-11am; Office Hour 11am-12pm CDT
 
-Fri, Jun 3	Research Presentation / Whirlwind tour of what's new / Next Steps
+### Weeks 3-4 Building AI Systems / Training AI Models
+
+5/22-6/2 (NOTE: Starting TUESDAY for Memorial Day)
+
+Tuesday, Wednesday, Friday
+
+9am-11am; Office Hour 11am-12pm CDT
 
 ## Breakout Rooms
-During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
 
-https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing
+### How to Breakout
+
+Remember we are all learning and exploring
+- Please share your video upon entering the room and unmute
+- Share your screens--someone volunteer to share their screen upon entering, and everyone be ready to share your screen to show what you’ve found
+- Make notes of what you’ve discussed in the Response Reports below
+- Everyone be ready to report out (random)
+- Make some friends
+- Breakout Rooms Worksheets
+
+### Report Documents
+Google Docs has a limit of 100 people viewing/editing a document at one time. 
+
+- If your room number is 1 through 10, use Breakout Room Report 1-10.
+- If your room number is 11 through 20, use Breakout Room Report 11-20.
+- If your room number is 21 through 30, use Breakout Room Report 21-30.
+- If your room number is 31 through 40, use Breakout Room Report 31-40.
+- If your room number is 41 through 50, use Breakout Room Report 41-50.
+
+### Special Breakout Room Groups
+
+Please be sure your display name is set in Zoom. If you are in one of the following special groups, please pre-pend your name with one of the following qualifiers. For example, I might be
+- DSSG-Jesse Spencer-Smith
+- Data Science for Social Good: DSSG
+- Center for AI in Protein Dynamics: Protein
+- If you are in a lab and would like your own breakout room: Labname (keep it short, please!)
+- If you are faculty and would like to be in a breakout room with other faculty: Faculty
 
 ## Using Fastcups
 During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click on the green, yellow, or red cup to indicate how you are doing! 
@@ -63,28 +96,6 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 
-### AI with Transformers
-Note: Titles of the records may say "Office Hours," but they are of the course.
-
-#### Week 1: Python for AI
-[VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/):
-
-#### Week 2: Transformers
-- Monday, May 16: https://vanderbilt.zoom.us/rec/share/i06HPNJBGU4qvCUvsxGgouubLD8ydFY3Tax4oxB6BaildJlsrTfjkDvdQs0sDI6F.2zkoTRMEVMQxk72v?startTime=1652708325000
-- Wednesay, May 18: https://vanderbilt.zoom.us/rec/share/jGKukco6K64DzUVkiUXjANDJSeWdEhd3dMHlO5CPKw9kVHvOR51Z4uMiWzQP_FkS.Ci5h98qmKVg1zoFa?startTime=1652882017000 (note, the title of the recording is incorrect, but it is indeed the recording of our Wednesday class!)
-- Friday, May 20: https://vanderbilt.zoom.us/rec/share/Yxp1ZoEcMZCEZrcfvplpWQy-i09bhZvo6rl8SAgU6_cPMvC8vl4rOzMqtmTDCfcf.EDSXtfU1cNQrKSvc?startTime=1653054808000
-
-#### Week 3: Transformers, Vision Transformers, Audio Transformers
-- Monday, May 23: https://vanderbilt.zoom.us/rec/share/9tHGPnVjhtXgD2DxfeZGhhWKbBfGBo0ZUBezEAlO-zv778uywcJQ9MuowBW_2lgZ.eMwfT-B39ulZN73Q?startTime=1653314184000
-- Wednesday, May 25: https://vanderbilt.zoom.us/rec/share/08cPU-4E8NZqCEfkyaAIjLMkOjWWo7nUtQUk6xn1RIg9GKqrqIe8EE5E4oj3JDQB.3MljahnyRxiA25wJ?startTime=1653487005000
-- Friday, May 27: https://vanderbilt.zoom.us/rec/share/zxQcyZsEHv2QJx45VCHnV5rVnXjFQrSCLavDWg8B-zwsw7i_v6piWf9UYUiRta1e.dom7PLc8tR7UwE-w?startTime=1653659784000
-- Wednesday, June 1: https://vanderbilt.zoom.us/rec/share/_GFi0dTXKqrNt7j53-sGiqZCp0BriNYk7PXFx7Fd24xbmjHiUvYX6asMBo-5ckgg.tfLA81XoMnXw49sX?startTime=1654091752000
-
-### Python for AI Resources
-- Vanderbilt AI Summer Python Intro: [Python Essentials for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/)
-
-## Asynchronous (Homework) Assignments
-A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next day of the course.  These homework assignments are designed to augment your understanding of Python, enable you to avoid common pitfalls of programming, resolve known areas of ambiguity that often arise in our new learners, and navigate and understand common errors that Python will throw.
 
 ## Other Resources
 
@@ -93,13 +104,6 @@ A number of examples will be left to the reader.  Please complete these assignme
 DGX A100 Compute Grant: https://forms.gle/2mGfEy9DB4JU2GpZ8
 
 ### Python
-- [VU Python for AI](https://github.com/vanderbilt-data-science/p4ai-essentials/): This is the recording for the first week of AI Summer covering the basics of Python for AI frameworks 
-- [A Whirlwind Tour of Python, Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
-- [Python Data Science Handbook, Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Programming with Python, Software Carpentries](https://swcarpentry.github.io/python-novice-inflammation/)  
-- [Introduction to Python (Datacamp Youtube Playlist)](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
-- [Introduction to Python (freeCodeCamp.org)](https://www.youtube.com/watch?v=rfscVS0vtbw)
--  Fastcups https://cups.fast.ai/vanderbilt-ai-summer (to be used synchronously during class)
 
 ### Transformers
 -  Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra and Thomas Wolf. If you are affiliated with Vanderbilt University, you can access this pre-print book (and any book by O’Reilly) free by logging into O'Reilly Media using your Vanderbilt email address. Vanderbilt licenses all content from O’Reilly. The book covers Transformers for purposes beyond text. 
