@@ -13,8 +13,9 @@ Presented by Vanderbilt Data Science Institute data scientists:
 ## Overview
 The objective of these workshops is to develop foundational skills in understanding, inferencing and training generative AI models and other transformer models.  
 
+## Setup
 
-
+You’ll want to use the most advanced AI chat model that you can get access to. Microsoft just opened access to BingGPT through Bing Chat, which is based on an early version of GPT4, currently the most advanced AI chat model available to the public. You’ll need to install the Edge browser (https://www.microsoft.com › edge › download) and go to bing. com. Click on “Chat”.
 
 ## Workshop Schedule
 
