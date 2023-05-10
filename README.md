@@ -109,11 +109,12 @@ To get the most out of this workshop:
 ### Accessing Bing Chat
 1. Open the Edge browser (yes, Edge) and navigate to www.bing.com
 2. Select "chat". A new window should open saying you need the new Bing.
-3. Select "Chat now" at the bottom of this window. This should prompt you to sign in to a Microsoft account. **Do not use an organizational/school email** (such as Vanderbilt). Instead, select "No account? Create a new one" and create one with your **personal** email. 
+3. Select "Start chatting" at the bottom of this window. This should prompt you to sign in to a Microsoft account. **Do not use an organizational/school email** (such as Vanderbilt). Instead, select "No account? Create a new one" and create one with your **personal** email. 
   Note: if you get stuck in the "use the new Bing" window, go back to Bing.com and select "Sign in" instead. Follow instructions for Step 3.
   
   ![](https://github.com/vanderbilt-data-science/ai_summer/blob/main/img/Bing-chat.png)
   ![](https://github.com/vanderbilt-data-science/ai_summer/blob/main/img/bing-1.png)
-  ![](https://github.com/vanderbilt-data-science/ai_summer/blob/main/img/bing-2.png)
+
 5. Sign in to your personal Microsoft account.
 6. Select "chat" - it should work now!
+  ![](https://github.com/vanderbilt-data-science/ai_summer/blob/main/img/bing-2.png)
