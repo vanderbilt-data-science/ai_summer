@@ -105,3 +105,9 @@ To get the most out of this workshop:
 * Actively participate in breakout rooms
 * Work on homework assignments before coming to class
 * Relax your mind and ask questions
+
+### Accessing Bing Chat
+1. Open the Edge browser (yes, Edge) and navigate to www.bing.com
+2. Select "chat". This should prompt you to sign in to a Microsoft account. **Do not use an organizational/school email** (such as Vanderbilt). Instead, select "No account? Create a new one" and create one with your **personal** email. 
+3. Sign in to your personal Microsoft account.
+4. Select "chat" - it should work now!
