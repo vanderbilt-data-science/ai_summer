@@ -78,7 +78,7 @@ For example, I might be *DSSG-Jesse Spencer-Smith*
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 Week 1 Session 1: https://www.youtube.com/watch?v=AXRDiHQMmBo
-Week 1 Session 2: https://vanderbilt.zoom.us/rec/share/xw2gEvBulGlT6V4MiWPVYlfiEiP5x3-WWARWWW1KJzniXB8SS1P3_mgiJtt-b2tP.Z88bxJSthecQvMoE
+Week 1 Session 2: https://vanderbilt.zoom.us/rec/share/eDWIPzELbtvX6xJIWyRQgR_PtVBpZawtO63OkNLsrWlydKA10-6qzb3tzRVVKaE1.A-UjIx9qvR-lqaxX?startTime=1683727143000
 
 ## Course Resources
 
