@@ -76,9 +76,7 @@ For example, I might be *DSSG-Jesse Spencer-Smith*
 
 
 ## Workshop Video Recordings
-Video recordings of these workshops can be found at the links below:
-Week 1 Session 1: https://www.youtube.com/watch?v=AXRDiHQMmBo
-Week 1 Session 2: https://vanderbilt.zoom.us/rec/share/eDWIPzELbtvX6xJIWyRQgR_PtVBpZawtO63OkNLsrWlydKA10-6qzb3tzRVVKaE1.A-UjIx9qvR-lqaxX?startTime=1683727143000
+Video recordings of these workshops can be found on our YouTube channel [AI Summer playlist](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL6KxUvysa-7yV8T4qcoLaDH3ZzUFwYx8u&data=05%7C01%7Cjesse.spencer-smith%40vanderbilt.edu%7C05c7b9c0dbf942c3186408db558cf221%7Cba5a7f39e3be4ab3b45067fa80faecad%7C0%7C0%7C638197836249753010%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=u5Q84sUPC7K1VOB9hyspSqduBhHBd8SvGXIXlNkjACM%3D&reserved=0)
 
 ## Course Resources
 
