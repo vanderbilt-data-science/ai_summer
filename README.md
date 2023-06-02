@@ -81,6 +81,8 @@ Video recordings of these workshops can be found on our YouTube channel [AI Summ
 ## Course Resources
 
 - Prompt Engineering paper https://arxiv.org/abs/2302.11382
+- Semester-long course on transformer models, [DS 5690: Transformers in Theory and Practice](https://docs.google.com/document/d/1eKJn3eQU38jsE1ilZL0s-yrsIKcn8iZ7iSmXYxibx78/edit?usp=sharing) . Graduate students and advanced undergraduates can register by contacting me. I welcome auditing by a select number of postdoctoral fellows, and drop-ins from faculty! 
+
 
 
 
