@@ -18,6 +18,12 @@ The objective of these workshops is to develop foundational skills in understand
 
 ### Learn or Improve Your Python
 
+Practice your Python skills using the below documents. Choose either a Google Colab for interactive programming environment, or alternatively read through the Google Doc.
+
+- [Colab Notebook Format](https://colab.research.google.com/drive/1PRpyEJQyQc-h3mdKuY2awCEhsHcP8AZ0?usp=sharing)
+
+- [Google Doc Format](https://docs.google.com/document/d/1CUjOkKSZ-YY4R_562IoOQxTZvDZ2MGn-w_lURC8acBo/edit?usp=sharing)
+
 ### Getting Accounts
 
 You’ll want to use the most advanced AI chat model that you can get access to. Microsoft just opened access to BingGPT through Bing Chat, which is based on an early version of GPT4, currently the most advanced AI chat model available to the public. You’ll need to install the Edge browser (https://www.microsoft.com › edge › download) and go to bing. com. Click on “Chat”.
