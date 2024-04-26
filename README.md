@@ -9,6 +9,7 @@ Presented by Vanderbilt Data Science Institute data scientists:
 * Myranda Shirk, Senior Data Scientist
 * Umang Chaudhry, Data Scientist
 * Dr. Abigail Petulante, DSI Postdoctoral Fellow
+* Dr. Joshua Su, DSI Postdoctoral Fellow
 
 ## Overview
 The objective of these workshops is to develop foundational skills in understanding, inferencing and training generative AI models and other transformer models.  
