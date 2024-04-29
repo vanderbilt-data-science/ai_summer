@@ -31,32 +31,23 @@ You’ll want to use the most advanced AI chat model that you can get access to.
 
 ### Decide on a Project (recommended)
 
+Think about any data you might want to bring to the workshop. Also begin thinking about any projects you might want to accomplish during our month. We’ll have office hours for you to work with us to get your first project off the ground!
 
 ## Workshop Schedule
 
-### Week 1 Introduction to Transformer Models, Generative AI, and Prompt Engineering
+Session will run live from 9am-11am, with an office hour from 11am to noon (all times Central). 
 
-5/8-5/10 (No meeting Friday for Vanderbilt graduation)
+### Week 1, 5/6 - 5/8: Introduction to Generative AI Models, Transformers, and Prompt Engineering
 
-Monday, Wednesday
+No class Friday (Vanderbilt Commencement)
 
-9am-11am; Office Hour 11am-12pm CDT
+### Weeks 2, 5/13 - 5/17: Retrieval-Augmented Generation (RAG), Assistants, Agents, and Intro to Diffusion Models
 
-### Weeks 2 AI-Assisted Programming for AI (yes, very meta)
+### Week 3, 5/20 - 5/24: Building AI Solutions, Running AI Securely Locally or in the Cloud, Introduction to Training Models
 
-5/15-5/19
+### Week 4, 5/29 - 5/31: Fine-tuning Models, Mulit-modal Models, Applied AI
 
-Monday, Wednesday, Friday
-
-9am-11am; Office Hour 11am-12pm CDT
-
-### Weeks 3-4 Building AI Systems / Training AI Models
-
-5/22-6/2 (NOTE: Starting TUESDAY for Memorial Day)
-
-Tuesday, Wednesday, Friday
-
-9am-11am; Office Hour 11am-12pm CDT
+No class Monday (Memorial Day)
 
 ## Breakout Rooms
 
@@ -73,11 +64,6 @@ Remember we are all learning and exploring
 ### Report Documents
 Google Docs has a limit of 100 people viewing/editing a document at one time. 
 
-- If your room number is 1 through 10, use [Breakout Room Report 1-10](https://docs.google.com/document/d/14wzyXgBRjjCqYriZwDBLfDhLpjYZWlK-FBVrhn4KgWo/edit?usp=sharing).
-- If your room number is 11 through 20, use [Breakout Room Report 11-20](https://docs.google.com/document/d/14NZccbaKNqhtFjRrvmIKCPOBAkvpqec3DC54P_YFnic/edit?usp=sharing).
-- If your room number is 21 through 30, use [Breakout Room Report 21-30](https://docs.google.com/document/d/1_EuSAW66hudr5BAbcYYsMujqPjEYV2cAKvFyOviiS8Q/edit?usp=sharing).
-- If your room number is 31 through 40, use [Breakout Room Report 31-40](https://docs.google.com/document/d/1ISLGUtQ6krYEhzzDY6NbsskgrgCUEQL37l91qW5FHj0/edit?usp=sharing).
-- If your room number is 41 through 50, use [Breakout Room Report 41-50](https://docs.google.com/document/d/1gjfwtpeQGZhuFvUBc6B93CdbVbHdiMWhKnJpi1hBkW0/edit?usp=sharing).
 
 ### Special Breakout Room Groups
 
