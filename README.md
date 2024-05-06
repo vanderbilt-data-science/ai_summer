@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/ai_summer)
 
 # AI Summer
-> Summary repository for AI Summer 2023. Introduction to generative AI, with practical applications to inferencing and training
+> Summary repository for AI Summer 2024. Introduction to generative AI, with practical applications to inferencing and training
 
 Presented by Vanderbilt Data Science Institute data scientists:
 * Dr. Jesse Spencer-Smith, Chief Data Scientist
