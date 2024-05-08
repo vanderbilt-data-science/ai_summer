@@ -39,6 +39,8 @@ Session will run live from 9am-11am, with an office hour from 11am to noon (all 
 
 ### Week 1, 5/6 - 5/8: Introduction to Generative AI Models, Transformers, and Prompt Engineering
 
+Monday: https://vanderbilt.zoom.us/rec/share/17V0GyZJoD9PPmenE2stE9AAPGgT0x8KQcEis-VHMn4n8GdsUrjbmu61Tb8r4iv3.FZdNC_03OR0tiDSI?startTime=1715004136000 
+
 No class Friday (Vanderbilt Commencement)
 
 ### Weeks 2, 5/13 - 5/17: Retrieval-Augmented Generation (RAG), Assistants, Agents, and Intro to Diffusion Models
