@@ -41,6 +41,8 @@ Session will run live from 9am-11am, with an office hour from 11am to noon (all 
 
 Monday: https://vanderbilt.zoom.us/rec/share/17V0GyZJoD9PPmenE2stE9AAPGgT0x8KQcEis-VHMn4n8GdsUrjbmu61Tb8r4iv3.FZdNC_03OR0tiDSI?startTime=1715004136000 
 
+Wednesday: https://vanderbilt.zoom.us/rec/share/jmUNeAlIF-vBLDWmFuV_HWlI8c944oM3YB94Q_9H36pgKtwTvQlzQAyGASEM3gaw.OKGh4pXYucHTLKAv
+
 No class Friday (Vanderbilt Commencement)
 
 ### Weeks 2, 5/13 - 5/17: Retrieval-Augmented Generation (RAG), Assistants, Agents, and Intro to Diffusion Models
