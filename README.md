@@ -57,6 +57,10 @@ Friday: https://vanderbilt.zoom.us/rec/share/y8paBkSmKLcUJRnHtwo8ZYSmNWCCG8nX9mt
 
 ### Week 3, 5/20 - 5/24: Building AI Solutions, Running AI Securely Locally or in the Cloud, Introduction to Training Models
 
+Monday:
+- Homework: Watch the following videos: [General Backprop](https://youtu.be/Ilg3gGewQ5U?si=kyrsyNj-DghEWnxU) and
+(math-centric backprop](https://youtu.be/tIeHLnjs5U8?si=mnT36GTL7YqU8qBO)
+
 ### Week 4, 5/29 - 5/31: Fine-tuning Models, Mulit-modal Models, Applied AI
 
 No class Monday (Memorial Day)
