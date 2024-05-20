@@ -47,6 +47,14 @@ No class Friday (Vanderbilt Commencement)
 
 ### Weeks 2, 5/13 - 5/17: Retrieval-Augmented Generation (RAG), Assistants, Agents, and Intro to Diffusion Models
 
+Monday Part 1: https://vanderbilt.zoom.us/rec/share/DFJ_bDybROtlo0qUseTFRo8QvntugqIsAlSVud1WKoEVlnO17ksxpz7uPgGgYN1r.1o_oPGd_07POUKux?startTime=1715608503000
+
+Monday Part 2: https://vanderbilt.zoom.us/rec/share/DFJ_bDybROtlo0qUseTFRo8QvntugqIsAlSVud1WKoEVlnO17ksxpz7uPgGgYN1r.1o_oPGd_07POUKux?startTime=1715613842000 
+
+Wednesday: https://vanderbilt.zoom.us/rec/share/D_asoLsFb3tHZ4AB6qHaODUJvnwNyGQA6bQsG4pSMqvI1zQ-cQkNXsxcuPi1wqYv.vcKQy17Jc8Y0xGbM?startTime=1715781305000 
+
+Friday: https://vanderbilt.zoom.us/rec/share/y8paBkSmKLcUJRnHtwo8ZYSmNWCCG8nX9mtxfaOWBq_HbGSdMyq_VLi_E6wQZG2l.09Mt6t9VgpsR_ruj?startTime=1715954101000 
+
 ### Week 3, 5/20 - 5/24: Building AI Solutions, Running AI Securely Locally or in the Cloud, Introduction to Training Models
 
 ### Week 4, 5/29 - 5/31: Fine-tuning Models, Mulit-modal Models, Applied AI
