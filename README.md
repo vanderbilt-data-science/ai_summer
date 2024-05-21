@@ -58,6 +58,8 @@ Friday: https://vanderbilt.zoom.us/rec/share/y8paBkSmKLcUJRnHtwo8ZYSmNWCCG8nX9mt
 ### Week 3, 5/20 - 5/24: Building AI Solutions, Running AI Securely Locally or in the Cloud, Introduction to Training Models
 
 Monday:
+- Recording: https://vanderbilt.zoom.us/rec/share/LGj-kG8kW22LzCacO6P2GdAtHRL0Tq3cn0O2NV36TlNQzeQKHDuZJkVqHraKcqaR.ScCzM5Gqp82li_6q
+  
 - Homework: Watch the following videos: [General Backprop](https://youtu.be/Ilg3gGewQ5U?si=kyrsyNj-DghEWnxU) and
 (math-centric backprop](https://youtu.be/tIeHLnjs5U8?si=mnT36GTL7YqU8qBO)
 
