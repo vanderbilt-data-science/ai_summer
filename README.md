@@ -97,6 +97,8 @@ For example, I might be *DSSG-Jesse Spencer-Smith*
 ## Workshop Video Recordings
 Video recordings of these workshops can be found on our YouTube channel [AI Summer playlist](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL6KxUvysa-7yV8T4qcoLaDH3ZzUFwYx8u&data=05%7C01%7Cjesse.spencer-smith%40vanderbilt.edu%7C05c7b9c0dbf942c3186408db558cf221%7Cba5a7f39e3be4ab3b45067fa80faecad%7C0%7C0%7C638197836249753010%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=u5Q84sUPC7K1VOB9hyspSqduBhHBd8SvGXIXlNkjACM%3D&reserved=0)
 
+Looking for the code resources for Summer 2023? View the 2023 repo version [here.](https://github.com/vanderbilt-data-science/ai_summer/tree/v2023)
+
 ## Course Resources
 
 - Prompt Engineering paper https://arxiv.org/abs/2302.11382
