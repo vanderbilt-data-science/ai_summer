@@ -63,6 +63,12 @@ Monday:
 - Homework: Watch the following videos: [General Backprop](https://youtu.be/Ilg3gGewQ5U?si=kyrsyNj-DghEWnxU) and
 (math-centric backprop](https://youtu.be/tIeHLnjs5U8?si=mnT36GTL7YqU8qBO)
 
+Wednesday: Recording: (https://vanderbilt.zoom.us/rec/share/fswTlpFMlqAVgxRDDBza920i9brAuxaSiteHpDNUwpm9YQzedJa5g_2oZSSr2Eq1.wF73yKYGD5eY3cyY?startTime=1716392393000)
+
+Friday: Recording: (https://vanderbilt.zoom.us/rec/share/plozihJcLFBIfjPxQ8Bsv9IdqHh39qFinkVUChsYtuiuiGAc8O2TcvTEbTE5cAUW.3XYBPJfbdZJ1GzAS?startTime=1716558902000)
+
+
+
 ### Week 4, 5/29 - 5/31: Fine-tuning Models, Mulit-modal Models, Applied AI
 
 No class Monday (Memorial Day)
