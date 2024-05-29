@@ -73,6 +73,39 @@ Friday: Recording: (https://vanderbilt.zoom.us/rec/share/plozihJcLFBIfjPxQ8Bsv9I
 
 No class Monday (Memorial Day)
 
+Wednesday:
+
+Papers/Blogs discussed:
+
+https://arxiv.org/pdf/2405.17247
+
+https://proceedings.mlr.press/v139/radford21a/radford21a.pdf
+
+https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.pdf
+
+https://arxiv.org/pdf/2405.09818
+
+https://sh-tsang.medium.com/review-flamingo-a-visual-language-model-for-few-shot-learning-ec477d47e7bf
+
+https://arxiv.org/pdf/2304.10592
+
+https://arxiv.org/pdf/2310.03744
+
+https://huggingface.co/papers/2311.05437
+
+https://arxiv.org/pdf/2311.05437
+
+https://llava-vl.github.io/blog/2024-01-30-llava-next/
+
+https://llava-vl.github.io/blog/2024-05-10-llava-next-stronger-llms/
+
+https://llava-vl.github.io/blog/2024-04-30-llava-next-video/
+
+https://arxiv.org/abs/2310.02239
+
+https://wandb.ai/byyoung3/ml-news/reports/How-to-Fine-Tune-LLaVA-on-a-Custom-Dataset--Vmlldzo2NjUwNTc1
+
+
 ## Breakout Rooms
 
 ### How to Breakout
