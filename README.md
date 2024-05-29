@@ -105,6 +105,7 @@ https://arxiv.org/abs/2310.02239
 
 https://wandb.ai/byyoung3/ml-news/reports/How-to-Fine-Tune-LLaVA-on-a-Custom-Dataset--Vmlldzo2NjUwNTc1
 
+Recording: https://vanderbilt.zoom.us/rec/share/YV3qbB-MzAuBeF3dnBnaZdif3LjD1uaObgw9Yg3OWEb_UYwLi0befTYMz57MWKVo.OrWLyaDkkCugELz8?startTime=1716990223000
 
 ## Breakout Rooms
 
