@@ -107,6 +107,8 @@ https://wandb.ai/byyoung3/ml-news/reports/How-to-Fine-Tune-LLaVA-on-a-Custom-Dat
 
 Recording: https://vanderbilt.zoom.us/rec/share/YV3qbB-MzAuBeF3dnBnaZdif3LjD1uaObgw9Yg3OWEb_UYwLi0befTYMz57MWKVo.OrWLyaDkkCugELz8?startTime=1716990223000
 
+Friday: Recording https://vanderbilt.zoom.us/rec/share/g2Q9l9ZAxfjPuPKSY9W9W9aZF_oq7a9rTcAQk2ppNzDTsZBCnpWdN3Dktd2THXY.G5FUcMWQPRFaenje 
+
 ## Breakout Rooms
 
 ### How to Breakout
